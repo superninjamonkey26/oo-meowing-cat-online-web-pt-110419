@@ -3,9 +3,6 @@ class Cat
   def meow
     puts "meow!"
   end
-  def meow
-    @meow
-  end
 end
 #maru = Cat.new
 #maru.name = "Maru"
